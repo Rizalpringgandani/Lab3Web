@@ -1,3 +1,0 @@
-if (move_uploaded_file($file_gambar['tmp_name'], $destination)) {
-            $gambar = 'gambar/' . $filename;;
-        }
