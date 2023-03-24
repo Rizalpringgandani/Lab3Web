@@ -11,7 +11,7 @@
 
 ### _Data Barang :_
 
-<img src="ss/Program_sederhana.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="gambar/data-barang.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 ### _Penjelasan :_
 
