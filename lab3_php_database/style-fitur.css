@@ -1,0 +1,62 @@
+/* CSS untuk container */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* CSS untuk judul */
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+/* CSS untuk form */
+.main {
+  
+  padding: 20px;
+  border-radius: 5px;
+}
+
+/* CSS untuk tabel */
+.table-tambah {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+/* CSS untuk sel */
+.table-tambah td {
+  padding: 10px;
+  /* border: 1px solid #ccc; */
+}
+
+/* CSS untuk input text */
+input[type="text"],
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* CSS untuk input file gambar */
+input[type="file"] {
+  padding: 10px;
+}
+
+/* CSS untuk tombol simpan */
+.simpan {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
